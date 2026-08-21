@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1785745539525,
+      "title": "PIP Support OLD",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:\"PIP Support OLD\"  ",
+        "showTags": true,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": false,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "CutOver",
+            "color": {
+              "a": 1,
+              "rgb": 16737279
+            }
+          },
+          {
+            "query": "Hardware",
+            "color": {
+              "a": 1,
+              "rgb": 16737156
+            }
+          },
+          {
+            "query": "windows",
+            "color": {
+              "a": 1,
+              "rgb": 3580651
+            }
+          },
+          {
+            "query": "software",
+            "color": {
+              "a": 1,
+              "rgb": 16764502
+            }
+          },
+          {
+            "query": "talkman",
+            "color": {
+              "a": 1,
+              "rgb": 4964544
+            }
+          },
+          {
+            "query": "infolog",
+            "color": {
+              "a": 1,
+              "rgb": 10053375
+            }
+          },
+          {
+            "query": "network",
+            "color": {
+              "a": 1,
+              "rgb": 16752448
+            }
+          },
+          {
+            "query": "AS400",
+            "color": {
+              "a": 1,
+              "rgb": 13092807
+            }
+          },
+          {
+            "query": "PIP",
+            "color": {
+              "a": 1,
+              "rgb": 5465855
+            }
+          },
+          {
+            "query": "vocollect",
+            "color": {
+              "a": 1,
+              "rgb": 6553476
+            }
+          },
+          {
+            "query": "OneDrive",
+            "color": {
+              "a": 1,
+              "rgb": 16753920
+            }
+          },
+          {
+            "query": "ticket",
+            "color": {
+              "a": 1,
+              "rgb": 8388736
+            }
+          },
+          {
+            "query": "SAP",
+            "color": {
+              "a": 1,
+              "rgb": 32896
+            }
+          },
+          {
+            "query": "print",
+            "color": {
+              "a": 1,
+              "rgb": 8421376
+            }
+          },
+          {
+            "query": "password",
+            "color": {
+              "a": 1,
+              "rgb": 12599296
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -2.2,
+        "nodeSizeMultiplier": 2.0140625,
+        "lineSizeMultiplier": 0.891145833333333,
+        "collapse-forces": true,
+        "centerStrength": 0.401041666666667,
+        "repelStrength": 8.95833333333333,
+        "linkStrength": 1,
+        "linkDistance": 260,
+        "scale": 0.6966276760697158,
+        "close": false
+      }
+    }
+  ]
+}

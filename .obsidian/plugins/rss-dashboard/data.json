@@ -1,0 +1,1688 @@
+{
+  "feeds": [
+    {
+      "title": "GreatScott!",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6mIxFTvXkWQVEHPsEdflzQ",
+      "folder": "YT Electonics",
+      "lastUpdated": 1787340787412,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "1841374c-ea37-49a1-9a0f-8afc25db253c"
+    },
+    {
+      "title": "Volos Projects",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCit2rVgOvhyuAD-VH5H_IHg",
+      "folder": "YT Electonics",
+      "lastUpdated": 1787340787586,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCit2rVgOvhyuAD-VH5H_IHg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "0d08e57b-49dd-4932-bbad-1b12ffe2d7cf"
+    },
+    {
+      "title": "Mrwhosetheboss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMiJRAwDNSNzuYeN2uWa0pA",
+      "folder": "YT Electonics",
+      "lastUpdated": 1787340787644,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "7e70c1bb-cb85-43ce-a342-51438240f99a"
+    },
+    {
+      "title": "Low Level",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg",
+      "folder": "YT IT",
+      "lastUpdated": 1787340787718,
+      "autoDeleteDuration": 30,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC6biysICWOJ-C3P4Tyeggzg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 8,
+        "retainedItemCount": 8,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 7,
+        "autoDeleteDurationDays": 30
+      },
+      "iconUrl": "",
+      "feedId": "ef8dbd0b-7c5f-4e23-93b4-d64ae0dbbc98"
+    },
+    {
+      "title": "Paul's Obsidian Systems",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkIzFxrhWbf2Crr-BBYtdgw",
+      "folder": "YT IT",
+      "lastUpdated": 1787340789329,
+      "autoDeleteDuration": 90,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCkIzFxrhWbf2Crr-BBYtdgw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 8,
+        "retainedItemCount": 8,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 7,
+        "autoDeleteDurationDays": 90
+      },
+      "iconUrl": "",
+      "feedId": "b8ca1974-a0c2-44ec-a554-81f015c2903a"
+    },
+    {
+      "title": "ServeTheHome",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv6J_jJa8GJqFwQNgNrMuww",
+      "folder": "YT IT",
+      "lastUpdated": 1787340786963,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCv6J_jJa8GJqFwQNgNrMuww",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 16,
+        "retainedItemCount": 16,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "c177bb0c-4ce0-49c2-8119-dfeee620ff30"
+    },
+    {
+      "title": "KTZ Systems",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh66aXZ_hqiT7au6Nwb8p3Q",
+      "folder": "YT IT",
+      "lastUpdated": 1787340789738,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCh66aXZ_hqiT7au6Nwb8p3Q",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "76400dab-7ab1-4b34-8b2c-82b129114f12"
+    },
+    {
+      "title": "Hardware Haven",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgdTVe88YVSrOZ9qKumhULQ",
+      "folder": "YT IT",
+      "lastUpdated": 1787340788736,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCgdTVe88YVSrOZ9qKumhULQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "6377f1da-139b-4d65-ab5f-9db5045aa7b5"
+    },
+    {
+      "title": "Microamp Home",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9iSVlKZ6SfOnrlbR2Mt2Mw",
+      "folder": "YT IT",
+      "lastUpdated": 1787340789904,
+      "autoDeleteDuration": 30,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC9iSVlKZ6SfOnrlbR2Mt2Mw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 6,
+        "mergedItemCountBeforeRetention": 1,
+        "retainedItemCount": 1,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 5,
+        "autoDeleteDurationDays": 30
+      },
+      "iconUrl": "",
+      "feedId": "531abd94-d83a-45a5-bc25-e157c38f9462"
+    },
+    {
+      "title": "Texas BUSHMAN",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFRE4F1oMhKXb4RylmF3Bxw",
+      "folder": "YT Fun",
+      "lastUpdated": 1787340789981,
+      "autoDeleteDuration": 30,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCFRE4F1oMhKXb4RylmF3Bxw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 2,
+        "retainedItemCount": 2,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 13,
+        "autoDeleteDurationDays": 30
+      },
+      "iconUrl": "",
+      "feedId": "13ff3e66-bd42-493e-92f9-c1dd7159b767"
+    },
+    {
+      "title": "The Slow Mo Guys",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w",
+      "folder": "YT Fun",
+      "lastUpdated": 1787340789938,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCUK0HBIBWgM2c4vsPhkYY4w",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 11,
+        "retainedItemCount": 11,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 4,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "3f5b068b-c2b2-4814-924b-78b7607eb044"
+    },
+    {
+      "title": "Fictiogonie",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrPwHATi-QzB1znVMOf07bg",
+      "folder": "YT Fun",
+      "lastUpdated": 1787340790094,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCrPwHATi-QzB1znVMOf07bg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "92d132af-c648-4a19-925b-80c4763cb008"
+    },
+    {
+      "title": "ProjectAir",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPCw5ycqW0fme1BdvNqOxbw",
+      "folder": "YT Fun",
+      "lastUpdated": 1787340790535,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCPCw5ycqW0fme1BdvNqOxbw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "ccdeec3a-d1f4-49a7-bc72-90c578c4f9e7"
+    },
+    {
+      "title": "NileRed",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA",
+      "folder": "YT Sciences",
+      "lastUpdated": 1787340790909,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 8,
+        "retainedItemCount": 8,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 7,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "6025b1ef-a273-4cb7-a2df-226ddeec645a"
+    },
+    {
+      "title": "Not An Engineer",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXh9mHdcBD-3aGCiECZMP1Q",
+      "folder": "YT Sciences",
+      "lastUpdated": 1787340791217,
+      "autoDeleteDuration": 180,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCXh9mHdcBD-3aGCiECZMP1Q",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 3,
+        "retainedItemCount": 3,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 12,
+        "autoDeleteDurationDays": 180
+      },
+      "iconUrl": "",
+      "feedId": "890a0129-afd9-4e8e-b5fc-ce9d5b002573"
+    },
+    {
+      "title": "Practical Engineering",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ",
+      "folder": "YT Sciences",
+      "lastUpdated": 1787340792068,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "7d9929c2-3eef-41f7-8fed-b1b62e05dc2b"
+    },
+    {
+      "title": "e-penser 2.0",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcziTK2NKeWtWQ6kB5tmQ8Q",
+      "folder": "YT Sciences",
+      "lastUpdated": 1787340792256,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "e36f560f-d68a-4ce1-8156-ebbc95691a1a"
+    },
+    {
+      "title": "Quint BUILDs",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKd49wwdEdIoM-7Fumhwmog",
+      "folder": "YT Sciences",
+      "lastUpdated": 1787340792306,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCKd49wwdEdIoM-7Fumhwmog",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "3d9866d6-55a1-4e09-852f-4d0c95e1ecc5"
+    },
+    {
+      "title": "Dolthra",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbFItYNnXKY0NtqqW9uxkdA",
+      "folder": "YT Game",
+      "lastUpdated": 1787340792374,
+      "autoDeleteDuration": 30,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCbFItYNnXKY0NtqqW9uxkdA",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 1,
+        "retainedItemCount": 1,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 14,
+        "autoDeleteDurationDays": 30
+      },
+      "iconUrl": "",
+      "feedId": "80de39ac-4767-4c3e-b0e9-791699d73291"
+    },
+    {
+      "title": "Kage848",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY6c18sccqyFL6PS5KVpicw",
+      "folder": "YT Game",
+      "lastUpdated": 1787340792621,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCY6c18sccqyFL6PS5KVpicw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 16,
+        "retainedItemCount": 16,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "a6677906-7e23-4253-9e7c-f59812731918"
+    },
+    {
+      "title": "Le Petit Astronome",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyeoIdJHgQhOrct9mVJ2fTQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340792859,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCyeoIdJHgQhOrct9mVJ2fTQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "19c6a1c8-42f7-4cda-acef-ea41aee5ba50"
+    },
+    {
+      "title": "IT-Connect - Florian",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIJTq0nGrgkGMy1xJL_YppQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340792933,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCIJTq0nGrgkGMy1xJL_YppQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "19d43b45-ea58-49cd-b7b6-e15d7f0abc0d"
+    },
+    {
+      "title": "JC The Beard",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPBH_pjwd8AqdZIadn_G8qg",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340793371,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCPBH_pjwd8AqdZIadn_G8qg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "d2bc4a2e-10c5-4a28-aff1-2b6b90198743"
+    },
+    {
+      "title": "DIY Perks",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUQo7nzH1sXVpzL92VesANw",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340793518,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 3,
+        "retainedItemCount": 3,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 12,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "25590871-50eb-40ca-b7be-45986ec11cf7"
+    },
+    {
+      "title": "rctestflight",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq2rNse2XX4Rjzmldv9GqrQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340794561,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "0e93e4d0-4209-41da-aadd-7e2855542cda"
+    },
+    {
+      "title": "Robinson Foundry",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6hWqs5McXbV1WPitfZK_PQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340793591,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC6hWqs5McXbV1WPitfZK_PQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 4,
+        "retainedItemCount": 4,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 11,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "188c2f27-11a9-429a-9a0a-3f2c66c8bb76"
+    },
+    {
+      "title": "Made With Lau",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsIF9vk-I_PV1P-ShDFA84A",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340794778,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCsIF9vk-I_PV1P-ShDFA84A",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 8,
+        "retainedItemCount": 8,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 7,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "9de1c201-64df-45ee-88bb-374a748c75cc"
+    },
+    {
+      "title": "Steve Mould",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340794816,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "d18e9eac-8f7b-4387-9dfe-c24eb76312ae"
+    },
+    {
+      "title": "Astrum",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-9b7aDP6ZN0coj9-xFnrtw",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340794971,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC-9b7aDP6ZN0coj9-xFnrtw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "15e659aa-d312-4414-a692-2fa34875f260"
+    },
+    {
+      "title": "Data Slayer",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiO0K2xt5irIN6x13FNzYTg",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340795048,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCiO0K2xt5irIN6x13FNzYTg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "b8944a50-f221-4761-bc05-8ebcdf03c3e3"
+    },
+    {
+      "title": "CPSdrone",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqbdxbvG6cqnh_S_RcGnWWg",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340795094,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCqbdxbvG6cqnh_S_RcGnWWg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "c481b17e-d7db-4cec-a05b-bf950696bb4d"
+    },
+    {
+      "title": "Zen Garden Oasis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0fxytZwEYul4AmfEiXL_w",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340799731,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCq0fxytZwEYul4AmfEiXL_w",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "199f0984-2416-42cc-92bd-a7a84b5f87f8"
+    },
+    {
+      "title": "Alec Steele",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWizIdwZdmr43zfxlCktmNw",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340800684,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCWizIdwZdmr43zfxlCktmNw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "bb52b182-4694-4c9b-af2b-8adfab44b205"
+    },
+    {
+      "title": "Sawdust & Circuits",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCagfxwYcOGIFkzgkp-DzcKQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340800916,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCagfxwYcOGIFkzgkp-DzcKQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "2b97cada-ac17-41d9-98aa-4675362e6430"
+    },
+    {
+      "title": "Level1Techs",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340800875,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 16,
+        "retainedItemCount": 16,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "2d6d4697-20cc-48d3-b929-cf8bc96caa70"
+    },
+    {
+      "title": "Craftsman Chris",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaKBU_jFbCCRbw8LEe5LIrw",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801027,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCaKBU_jFbCCRbw8LEe5LIrw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "4b11ef7c-7ed7-475c-adaf-12fadc052c1c"
+    },
+    {
+      "title": "AstronoGeek",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5X4e8ScZI2AFd_vkjSoyoQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340800939,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 16,
+        "retainedItemCount": 16,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "12154ac3-50e3-4627-92c5-affa67be9f28"
+    },
+    {
+      "title": "RobWords",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a9LfdavRlVMaSSWFdIciA",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801058,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC4a9LfdavRlVMaSSWFdIciA",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "e5d2ae35-f730-4350-9342-299636411c07"
+    },
+    {
+      "title": "ServersatHome",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx0ObGO7YJZpPPf6tbHpqPQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801101,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCx0ObGO7YJZpPPf6tbHpqPQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 16,
+        "retainedItemCount": 16,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "b11fc295-88cd-461e-a880-f5e162eb73bb"
+    },
+    {
+      "title": "Danny Hatcher",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuK7cMQFx9qu9xXStG3uWw",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801132,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCKuK7cMQFx9qu9xXStG3uWw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 8,
+        "retainedItemCount": 8,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 7,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "391ca2e5-ac86-4bae-b91c-7bba575eff85"
+    },
+    {
+      "title": "Monsieur Bidouille",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSULDz1yaHLVQWHpm4g_GHA",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801151,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCSULDz1yaHLVQWHpm4g_GHA",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 10,
+        "retainedItemCount": 10,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 5,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "d0ce5cbb-17c6-46ff-be82-e2c57637f46c"
+    },
+    {
+      "title": "NetworkChuck",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801185,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 16,
+        "retainedItemCount": 16,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "d48d2d98-4412-4a30-9a10-f97c7234b46d"
+    },
+    {
+      "title": "Greenhill Forge",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkmEk3ldK7uJ1OvdLKwGrxg",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801229,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCkmEk3ldK7uJ1OvdLKwGrxg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "936499d1-3ce5-4ff2-9da0-87577c74aabb"
+    },
+    {
+      "title": "AlienTech42",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-yJc9bWKTN4ivhinzupR_Q",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801773,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC-yJc9bWKTN4ivhinzupR_Q",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "27778da5-fbd0-4831-adcb-b7495ab5f7b3"
+    },
+    {
+      "title": "J'suis pas content TV",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9NB2nXjNtRabu3YLPB16Hg",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801552,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UC9NB2nXjNtRabu3YLPB16Hg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "03f59fce-66e1-490b-a210-50d9867e3479"
+    },
+    {
+      "title": "mostlychris",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXEa_Gzl2zjhb7K6xflyrWQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340802033,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCXEa_Gzl2zjhb7K6xflyrWQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "7c94dd41-1130-4f24-bff6-18bffb942d7a"
+    },
+    {
+      "title": "Real Civil Engineer",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeP4Yv3s4RvS0-6d9OInRMw",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340802085,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCeP4Yv3s4RvS0-6d9OInRMw",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 16,
+        "retainedItemCount": 16,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "688a152e-5ee7-4b61-9f96-a2774bd7c294"
+    },
+    {
+      "title": "Jeff Geerling",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801803,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "8f7b8bf5-d5c9-4801-b1d7-78ca610ce538"
+    },
+    {
+      "title": "AVAseries",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh419hSOBZMydnJncdtsxGg",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340802380,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCh419hSOBZMydnJncdtsxGg",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "56615db0-8c1b-4ac3-8572-9c6ed3e100ef"
+    },
+    {
+      "title": "TechHut",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340801990,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCjSEJkpGbcZhvo0lr-44X_w",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 15,
+        "retainedItemCount": 15,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "42d2d58a-d449-4b8b-a89e-6c07a3bf0789"
+    },
+    {
+      "title": "cuoredicioccolato",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCntxIE8FKow3FbWG-BCApeQ",
+      "folder": "Mastodon",
+      "lastUpdated": 1787340802535,
+      "autoDeleteDuration": 365,
+      "maxItemsLimit": 100,
+      "scanInterval": 0,
+      "excludeFromRefresh": false,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCntxIE8FKow3FbWG-BCApeQ",
+      "lastRefreshDiagnostics": {
+        "fetchedItemCount": 15,
+        "mergedItemCountBeforeRetention": 16,
+        "retainedItemCount": 16,
+        "retentionRemovedCount": 0,
+        "skippedByRefreshCutoffCount": 0,
+        "autoDeleteDurationDays": 365
+      },
+      "iconUrl": "",
+      "feedId": "04ca06a5-d933-472e-a6ba-c86380957a4a"
+    }
+  ],
+  "folders": [
+    {
+      "name": "Uncategorized",
+      "subfolders": [],
+      "createdAt": 1787257757079,
+      "modifiedAt": 1787257757079
+    },
+    {
+      "name": "Videos",
+      "subfolders": [],
+      "createdAt": 1787257757079,
+      "modifiedAt": 1787257757079
+    },
+    {
+      "name": "Podcasts",
+      "subfolders": [],
+      "createdAt": 1787257757079,
+      "modifiedAt": 1787257757079
+    },
+    {
+      "name": "RSS",
+      "subfolders": [],
+      "createdAt": 1787257757079,
+      "modifiedAt": 1787257757079
+    },
+    {
+      "name": "Youtube",
+      "subfolders": [],
+      "createdAt": 1787258409017,
+      "modifiedAt": 1787298647136
+    },
+    {
+      "name": "YT Game",
+      "subfolders": [],
+      "createdAt": 1787298569485,
+      "modifiedAt": 1787299433722
+    },
+    {
+      "name": "YT Fun",
+      "subfolders": [],
+      "createdAt": 1787298592610,
+      "modifiedAt": 1787299468306
+    },
+    {
+      "name": "YT Sciences",
+      "subfolders": [],
+      "createdAt": 1787298612306,
+      "modifiedAt": 1787299491994
+    },
+    {
+      "name": "YT IT",
+      "subfolders": [],
+      "createdAt": 1787298634592,
+      "modifiedAt": 1787299456057
+    },
+    {
+      "name": "Mastodon",
+      "subfolders": [],
+      "createdAt": 1787299143121,
+      "modifiedAt": 1787299491994
+    },
+    {
+      "name": "YT Electonics",
+      "subfolders": [],
+      "createdAt": 1787299287195,
+      "modifiedAt": 1787299486706
+    }
+  ],
+  "refreshInterval": 60,
+  "lastRefreshTimestamp": 1787340802538,
+  "startupRefreshDelaySeconds": 8,
+  "maxItems": 100,
+  "defaultAutoDeleteDuration": 365,
+  "viewStyle": "card",
+  "showFeedArt": true,
+  "showThumbnails": true,
+  "sidebarCollapsed": false,
+  "sidebarWidth": 280,
+  "collapsedFolders": [
+    "YT Game",
+    "YT Fun",
+    "YT IT",
+    "YT Sciences",
+    "YT Electonics",
+    "Mastodon"
+  ],
+  "collapsedFeedSections": [],
+  "tagsCollapsed": true,
+  "articleFilter": {
+    "type": "none",
+    "value": null
+  },
+  "articleSort": "newest",
+  "articleGroupBy": "none",
+  "allArticlesPageSize": 50,
+  "unreadArticlesPageSize": 50,
+  "readArticlesPageSize": 50,
+  "savedArticlesPageSize": 50,
+  "starredArticlesPageSize": 50,
+  "availableTags": [
+    {
+      "name": "Important",
+      "color": "#e74c3c"
+    },
+    {
+      "name": "Read later",
+      "color": "#3498db"
+    },
+    {
+      "name": "Favorite",
+      "color": "#f1c40f"
+    },
+    {
+      "name": "Video",
+      "color": "#d04747"
+    },
+    {
+      "name": "Podcast",
+      "color": "#8e44ad"
+    }
+  ],
+  "folderSortOrder": {
+    "by": "name",
+    "ascending": true
+  },
+  "feedSortOrder": {
+    "by": "name",
+    "ascending": true
+  },
+  "folderFeedSortOrders": {
+    "YT Sciences": {
+      "by": "custom",
+      "ascending": true
+    },
+    "YT IT": {
+      "by": "custom",
+      "ascending": true
+    },
+    "YT Fun": {
+      "by": "custom",
+      "ascending": true
+    },
+    "YT Electonics": {
+      "by": "custom",
+      "ascending": true
+    },
+    "YT Game": {
+      "by": "custom",
+      "ascending": true
+    }
+  },
+  "viewLocation": "main",
+  "readerViewLocation": "main",
+  "savedArticleOpenLocation": "main",
+  "useWebViewer": true,
+  "corsProxyEnabled": true,
+  "corsProxyUrl": "auto",
+  "customProxyUrls": [],
+  "readerFormat": {
+    "textAlign": "justify",
+    "paragraphWidth": 100,
+    "fontScalePct": 100,
+    "lineHeightPct": 160,
+    "fontFamily": "default",
+    "paragraphSpacing": "default"
+  },
+  "media": {
+    "autoTagVideos": true,
+    "rememberPlaybackProgress": true,
+    "defaultTwitterFolder": "Twitter",
+    "defaultMastodonFolder": "Mastodon",
+    "defaultYouTubeFolder": "Youtube",
+    "defaultVideoTag": "Video",
+    "defaultVideoTags": [
+      "Video"
+    ],
+    "defaultYouTubeTag": "Video",
+    "defaultYouTubeTags": [
+      "Video"
+    ],
+    "defaultPodcastFolder": "Podcast",
+    "defaultPodcastTags": [
+      "podcast"
+    ],
+    "defaultRssFolder": "RSS",
+    "defaultRssTag": "RSS",
+    "defaultRssTags": [
+      "RSS"
+    ],
+    "defaultSmallwebFolder": "Smallweb",
+    "defaultSmallwebTag": "smallweb",
+    "defaultSmallwebTags": [
+      "smallweb"
+    ],
+    "defaultTwitterTag": "",
+    "defaultTwitterTags": [],
+    "defaultMastodonTag": "",
+    "defaultMastodonTags": [],
+    "openInSplitView": true,
+    "podcastTheme": "obsidian",
+    "enableApplePodcastsOpen": false,
+    "defaultPlaySpeed": 1
+  },
+  "articleSaving": {
+    "addSavedTag": true,
+    "defaultFolder": "RSS articles/",
+    "defaultTemplate": "---\n title: \"{{title}}\"\n date: \"{{date}}\"\n tags: [{{tags}}]\n source: \"{{source}}\"\n link: \"{{link}}\"\n author: \"{{author}}\"\n feedTitle: \"{{feedTitle}}\"\n summary: \"{{summary}}\"\n guid: \"{{guid}}\"\n---\n\n# {{title}}\n\n{{content}}\n\n  [Source]({{link}})",
+    "includeFrontmatter": true,
+    "frontmatterTemplate": "---\n title: \"{{title}}\"\n date: \"{{date}}\"\n tags: [{{tags}}]\n source: \"{{source}}\"\n link: \"{{link}}\"\n author: \"{{author}}\"\n feedTitle: \"{{feedTitle}}\"\n summary: \"{{summary}}\"\n guid: \"{{guid}}\"\n---",
+    "saveFullContent": true,
+    "fetchTimeout": 10,
+    "savedTemplates": []
+  },
+  "display": {
+    "showCoverImage": true,
+    "showSummary": true,
+    "showFilterStatusBar": true,
+    "showSidebarScrollbar": true,
+    "showAllFeedsUnreadBadges": true,
+    "showFolderUnreadBadges": true,
+    "showFeedUnreadBadges": true,
+    "allFeedsUnreadBadgeColor": "#8e44ad",
+    "folderUnreadBadgeColor": "#d85b9f",
+    "feedUnreadBadgeColor": "#8e44ad",
+    "allFeedsUnreadBadgeDefaultColor": "#8e44ad",
+    "folderUnreadBadgeDefaultColor": "#d85b9f",
+    "feedUnreadBadgeDefaultColor": "#8e44ad",
+    "filterDisplayStyle": "inline",
+    "mobileShowCardToolbar": true,
+    "mobileShowListToolbar": true,
+    "mobileListToolbarStyle": "minimal",
+    "defaultFilter": "all",
+    "hiddenFilters": [],
+    "useDomainIconsPodcast": false,
+    "useDomainIconsMastodon": false,
+    "useDomainIconsTwitter": false,
+    "useDomainIconsRss": true,
+    "useDomainIconsYouTube": false,
+    "hideDefaultRssIcon": false,
+    "autoMarkReadOnOpen": false,
+    "sidebarRowSpacing": 10,
+    "sidebarRowIndentation": 20,
+    "sidebarItemPaddingLeft": 2,
+    "sidebarItemPaddingRight": 2,
+    "cardColumnsPerRow": 0,
+    "cardSpacing": 15,
+    "hideEmptyFeeds": false,
+    "hideFeedFetchErrorBadges": false,
+    "hideIconDashboard": false,
+    "hideIconDiscover": false,
+    "hideIconAddFeed": false,
+    "hideIconManageFeeds": false,
+    "hideIconSearch": false,
+    "hideIconTags": false,
+    "hideIconAddFolder": false,
+    "hideIconSort": false,
+    "hideIconCollapseAll": false,
+    "hideIconSettings": false,
+    "hideIconDivider": false,
+    "hideToolbarEntirely": false,
+    "iconOrder": [
+      "discover",
+      "divider",
+      "addFeed",
+      "manageFeeds",
+      "search",
+      "tags",
+      "addFolder",
+      "sort",
+      "collapseAll",
+      "settings"
+    ],
+    "articleDateStyle": "relative"
+  },
+  "highlights": {
+    "enabled": false,
+    "defaultColor": "#ffd700",
+    "highlightInContent": true,
+    "highlightInTitles": true,
+    "highlightInSummaries": true,
+    "words": []
+  },
+  "keywordRules": {
+    "includeLogic": "AND",
+    "bypassAll": false,
+    "rules": []
+  },
+  "dashboardMultiFilters": {
+    "statusFilters": [],
+    "tagFilters": [],
+    "logic": "OR"
+  },
+  "sidebarTagFilterMode": "or",
+  "autoBackup": {
+    "backupDataJson": false,
+    "backupOpml": true,
+    "backupUserdata": true
+  },
+  "storageMode": "vault-shards-v2",
+  "storageMigrationDismissedPermanently": false,
+  "storageFolder": ".rss-dashboard-data/feeds",
+  "storageSchemaVersion": 1,
+  "metadataStorageMode": "plugin-default",
+  "metadataStorageFolder": ".rss-dashboard-data",
+  "metadataStorageSchemaVersion": 1,
+  "_syncNonce": "1787340805282-204",
+  "_syncPad": "sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor sync-size-anchor "
+}
