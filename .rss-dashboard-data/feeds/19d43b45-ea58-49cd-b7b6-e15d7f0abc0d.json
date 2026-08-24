@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "19d43b45-ea58-49cd-b7b6-e15d7f0abc0d",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIJTq0nGrgkGMy1xJL_YppQ",
-  "updatedAt": 1787557438901,
+  "updatedAt": 1787607851413,
   "items": [
+    {
+      "title": "L'analyseur réseau intégré à Windows Server que personne n'utilise",
+      "link": "https://www.youtube.com/watch?v=G-d2B7WxkTU",
+      "description": "Wireshark n'est pas toujours installable sur un serveur de production, et pourtant il faut bien capturer le trafic réseau. Windows Server intègre un outil capable de le faire : Packet Monitor. Je vous montre comment poser des filtres, capturer le trafic, convertir la capture au format Wireshark et d'autres outils utiles. 📘 Découvrez mon livre sur Windows Server 2025 - https://amzn.to/3PBtqUo Tutoriel Packet Monitor sur IT-Connect : - https://www.it-connect.fr/chapitres/windows-server-2025-capturer-le-trafic-reseau-avec-pktmon/ 🌟 Rejoignez notre chaine pour nous soutenir et bénéficier d'avantages exclusifs : - https://www.youtube.com/channel/UCIJTq0nGrgkGMy1xJL_YppQ/join 😘 Vous appréciez IT-Connect ? Offrez-moi un café ou un peu plus... - https://ko-fi.com/it_connectfr ------------- ⭐ Sommaire 00:00 Introduction 00:46 Hyper-V : mise en miroir des cartes réseau 01:45 Prise en main de pktmon 08:45 Passer Pktmon à Wireshark 10:23 Pktmon dans WAC ? 11:28 TCPView 12:25 Get-NetTCPConnection 13:40 Conclusion 14:10 Mon livre Windows Server 2025 Pense à t'abonner pour ne rien manquer : ⭐ https://www.youtube.com/c/It-connectFr/?sub_confirmation=1 ----- 📢🙍‍♂️ Auteur : Florian Burnel ----- ➡ Visitez notre site : https://www.it-connect.fr ➡ Rejoignez la communauté sur Discord : https://discord.gg/KMWN7TUQfm ➡ Suivez-nous sur les réseaux sociaux : Twitter : https://twitter.com/itconnect_fr Facebook : https://www.facebook.com/it.connect.fr/ Instagram : https://www.instagram.com/it_connect.fr/ LinkedIn : https://www.linkedin.com/company/it-connect-fr #réseauxinformatiques #windowsserver2025 #sysadmin",
+      "content": "Wireshark n'est pas toujours installable sur un serveur de production, et pourtant il faut bien capturer le trafic réseau. Windows Server intègre un outil capable de le faire : Packet Monitor. Je vous montre comment poser des filtres, capturer le trafic, convertir la capture au format Wireshark et d'autres outils utiles. 📘 Découvrez mon livre sur Windows Server 2025 - https://amzn.to/3PBtqUo Tutoriel Packet Monitor sur IT-Connect : - https://www.it-connect.fr/chapitres/windows-server-2025-capturer-le-trafic-reseau-avec-pktmon/ 🌟 Rejoignez notre chaine pour nous soutenir et bénéficier d'avantages exclusifs : - https://www.youtube.com/channel/UCIJTq0nGrgkGMy1xJL_YppQ/join 😘 Vous appréciez IT-Connect ? Offrez-moi un café ou un peu plus... - https://ko-fi.com/it_connectfr ------------- ⭐ Sommaire 00:00 Introduction 00:46 Hyper-V : mise en miroir des cartes réseau 01:45 Prise en main de pktmon 08:45 Passer Pktmon à Wireshark 10:23 Pktmon dans WAC ? 11:28 TCPView 12:25 Get-NetTCPConnection 13:40 Conclusion 14:10 Mon livre Windows Server 2025 Pense à t'abonner pour ne rien manquer : ⭐ https://www.youtube.com/c/It-connectFr/?sub_confirmation=1 ----- 📢🙍‍♂️ Auteur : Florian Burnel ----- ➡ Visitez notre site : https://www.it-connect.fr ➡ Rejoignez la communauté sur Discord : https://discord.gg/KMWN7TUQfm ➡ Suivez-nous sur les réseaux sociaux : Twitter : https://twitter.com/itconnect_fr Facebook : https://www.facebook.com/it.connect.fr/ Instagram : https://www.instagram.com/it_connect.fr/ LinkedIn : https://www.linkedin.com/company/it-connect-fr #réseauxinformatiques #windowsserver2025 #sysadmin",
+      "pubDate": "2026-08-24T16:00:20+00:00",
+      "guid": "yt:video:G-d2B7WxkTU",
+      "feedTitle": "IT-Connect - Florian",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIJTq0nGrgkGMy1xJL_YppQ",
+      "coverImage": "https://img.youtube.com/vi/G-d2B7WxkTU/maxresdefault.jpg",
+      "summary": "Wireshark n'est pas toujours installable sur un serveur de production, et pourtant il faut bien capturer le trafic réseau. Windows Server intègre un outil capable de le faire : Packet Monitor. Je vous montre comment pose...",
+      "author": "IT-Connect - Florian",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "G-d2B7WxkTU"
+    },
     {
       "title": "Ton PC est cassé après une mise à jour ? 😮",
       "link": "https://www.youtube.com/shorts/2BH2QbEJHA8",

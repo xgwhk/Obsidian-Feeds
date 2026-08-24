@@ -18,6 +18,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "0746c8b090d8986c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bdaf7e2313f0004",
+            "type": "leaf",
+            "state": {
+              "type": "rss-reader-view",
+              "state": {},
+              "icon": "play-circle",
+              "title": "I Turned Up the Difficulty... Can I Survive the Hardest Biome in this Survival Game?"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,9 +201,14 @@
       "rss-dashboard:RSS dashboard": false
     }
   },
-  "active": "83e9ece3f8d83b88",
+  "active": "9bdaf7e2313f0004",
   "lastOpenFiles": [
-    "RSS articles/Obsidian Plugins 2026 What I Use and What I Dropped.md",
+    "RSS articles/Science",
+    "RSS articles/Science/This Device Goes Past Equilibrium.md",
+    "RSS articles/Food Drinks/Make All Natural Soda From Ginger FIZZY AND GOOD FOR YOUR GUT!!!.md",
+    "RSS articles/Food Drinks",
+    "RSS articles/Obsidian",
+    "RSS articles/Obsidian/Obsidian Plugins 2026 What I Use and What I Dropped.md",
     "IT/Vocollect & Talkman/data/Photo Microphone Tweak/desktop.ini",
     "IT/Vocollect & Talkman/data/7524440301/desktop.ini",
     "PIPGSD/documents/desktop.ini",
@@ -198,13 +219,11 @@
     "Templates",
     "Sites/Villepinte/RFS Document SVC-80028459 2026_3_2 v1.pdf",
     "Sites/Villepinte",
-    "Sites/Vierzon/User_vs_Token detail.ods",
     "Sites/Vierzon/Adobe Acrobat licences approuval by Frédéric Wagner.png",
     "Sites/Vierzon/20260424 SAP BRP - Users locked OUT.png",
     "Sites/Vierzon/20260417 VDI loading endlessly.png",
     "Sites/Vierzon/20260416 Firewall Input WAN2.jpg",
     "Sites/Vierzon/20260416 Cisco Output LAN4.jpg",
-    "Sites/Vierzon/20260415 RFS Document SVC-80028619 2026_4_14 v1.pdf",
     "Sites/Sevrey/WinSCP/Configuration of WinSCP.md",
     "Sites/Sevrey/WinSCP/20251117 WinSCP Configuration 04.png",
     "Sites/Sevrey/WinSCP/20251117 WinSCP Configuration 03.png",
@@ -229,8 +248,6 @@
     "Sites/Sevrey/Hardware/PC Sevrey/Priority 2.md",
     "Sites/Sevrey/Hardware/PC Sevrey/Priority 1.md",
     "Sites/Sevrey/Hardware/PC Sevrey/PC Sevrey.md",
-    "Sites/Lozanne/Server Information.md",
-    "PIPGSD/z-tickets/Resolved/202608/PIPGSD-124882 compte d'un collègue désactivé.md",
-    "PIPGSD/z-tickets/Resolved/202608/PIPGSD-124282 Laptop ''Chainex'' cannot be started = need to open windows.md"
+    "Sites/Lozanne/Server Information.md"
   ]
 }

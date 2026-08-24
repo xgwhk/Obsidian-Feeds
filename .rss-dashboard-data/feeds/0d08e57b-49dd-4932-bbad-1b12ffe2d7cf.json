@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "0d08e57b-49dd-4932-bbad-1b12ffe2d7cf",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCit2rVgOvhyuAD-VH5H_IHg",
-  "updatedAt": 1787299342383,
+  "updatedAt": 1787607851403,
   "items": [
+    {
+      "title": "Meet the Meshnology W12 – LR2021, ESP32 & More",
+      "link": "https://www.youtube.com/watch?v=SnWnzE6ov3U",
+      "description": "Meet the Meshnology W12, a new long-range LoRa device built around the ESP32 and Semtech LR2021 radio chip. In this video, I take a closer look at the hardware, the LR2021, its LoRa capabilities, FLRC support, 2.4 GHz LoRa, available firmware, and what makes this board different from the usual LoRa devices based on older SX chips. I also test the device in a real urban environment and experiment with its range and different communication modes. The W12 is still a relatively new device, and there is currently no official Meshtastic firmware available for it, but MeshCore is already working and the device also comes with its own firmware for sending and receiving LoRa messages through serial, Bluetooth, or Wi-Fi. I also made a few small experiments and programs for the device, which I'll show in the video. LINK: https://meshnology.com/products/meshnology-w12-lr2021-ultra-long-range-lora-meshtastic-device-kit?_pos=1&_psq=W12&_psid=e3c878b74&_ss=e",
+      "content": "Meet the Meshnology W12, a new long-range LoRa device built around the ESP32 and Semtech LR2021 radio chip. In this video, I take a closer look at the hardware, the LR2021, its LoRa capabilities, FLRC support, 2.4 GHz LoRa, available firmware, and what makes this board different from the usual LoRa devices based on older SX chips. I also test the device in a real urban environment and experiment with its range and different communication modes. The W12 is still a relatively new device, and there is currently no official Meshtastic firmware available for it, but MeshCore is already working and the device also comes with its own firmware for sending and receiving LoRa messages through serial, Bluetooth, or Wi-Fi. I also made a few small experiments and programs for the device, which I'll show in the video. LINK: https://meshnology.com/products/meshnology-w12-lr2021-ultra-long-range-lora-meshtastic-device-kit?_pos=1&_psq=W12&_psid=e3c878b74&_ss=e",
+      "pubDate": "2026-08-24T12:15:42+00:00",
+      "guid": "yt:video:SnWnzE6ov3U",
+      "feedTitle": "Volos Projects",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCit2rVgOvhyuAD-VH5H_IHg",
+      "coverImage": "https://img.youtube.com/vi/SnWnzE6ov3U/maxresdefault.jpg",
+      "summary": "Meet the Meshnology W12, a new long-range LoRa device built around the ESP32 and Semtech LR2021 radio chip. In this video, I take a closer look at the hardware, the LR2021, its LoRa capabilities, FLRC support, 2.4 GHz Lo...",
+      "author": "Volos Projects",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "SnWnzE6ov3U"
+    },
     {
       "title": "I Took This Raspberry Pi on Vacation Instead of My Laptop",
       "link": "https://www.youtube.com/watch?v=X9JCTM32-aM",

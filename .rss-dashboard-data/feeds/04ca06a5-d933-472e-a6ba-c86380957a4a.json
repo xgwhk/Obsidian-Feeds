@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "04ca06a5-d933-472e-a6ba-c86380957a4a",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCntxIE8FKow3FbWG-BCApeQ",
-  "updatedAt": 1787340805188,
+  "updatedAt": 1787607851399,
   "items": [
+    {
+      "title": "Thanks Gianluca 🎁🍾🍷🥳",
+      "link": "https://www.youtube.com/shorts/7oyWTQfunF0",
+      "description": "",
+      "content": "",
+      "pubDate": "2026-08-24T15:58:10+00:00",
+      "guid": "yt:video:7oyWTQfunF0",
+      "feedTitle": "cuoredicioccolato",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCntxIE8FKow3FbWG-BCApeQ",
+      "coverImage": "https://img.youtube.com/vi/7oyWTQfunF0/maxresdefault.jpg",
+      "summary": "",
+      "author": "cuoredicioccolato",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "7oyWTQfunF0"
+    },
     {
       "title": "Figs Jam 🥳",
       "link": "https://www.youtube.com/shorts/pwTEnlZI1os",

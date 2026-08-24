@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "12154ac3-50e3-4627-92c5-affa67be9f28",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5X4e8ScZI2AFd_vkjSoyoQ",
-  "updatedAt": 1787340804977,
+  "updatedAt": 1787607851469,
   "items": [
+    {
+      "title": "Un vrai ovni ?",
+      "link": "https://www.youtube.com/shorts/SumbcG8Zy9w",
+      "description": "",
+      "content": "",
+      "pubDate": "2026-08-24T14:00:27+00:00",
+      "guid": "yt:video:SumbcG8Zy9w",
+      "feedTitle": "AstronoGeek",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5X4e8ScZI2AFd_vkjSoyoQ",
+      "coverImage": "https://img.youtube.com/vi/SumbcG8Zy9w/maxresdefault.jpg",
+      "summary": "",
+      "author": "AstronoGeek",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "SumbcG8Zy9w"
+    },
     {
       "title": "🪐les 5 Lois de la Stupidité",
       "link": "https://www.youtube.com/watch?v=CVK8i5pFySw",

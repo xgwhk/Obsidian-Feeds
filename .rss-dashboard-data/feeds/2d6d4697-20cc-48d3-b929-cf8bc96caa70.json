@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "2d6d4697-20cc-48d3-b929-cf8bc96caa70",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ",
-  "updatedAt": 1787340804932,
+  "updatedAt": 1787607851423,
   "items": [
+    {
+      "title": "Taking a Look at Intel SuperClaw!",
+      "link": "https://www.youtube.com/watch?v=yfVHinvSfoc",
+      "description": "The claw!! 0:00 Intro 0:12 What Can I do with SuperClaw 1:22 SuperClaw Explained 9:47 What People Don't Understand 13:08 Outro You can find us... Twitter - https://twitter.com/level1techs Twitch - https://twitch.tv/teampgp Patreon - https://www.patreon.com/level1 For all our social links, websites, and more, check out our link tree! https://linktr.ee/level1techs Thank you for watching! ------------------------------------------------------------------------------------------------------------- *IMPORTANT* Any email lacking “level1techs.com” should be ignored and immediately reported to Queries@level1techs.com.",
+      "content": "The claw!! 0:00 Intro 0:12 What Can I do with SuperClaw 1:22 SuperClaw Explained 9:47 What People Don't Understand 13:08 Outro You can find us... Twitter - https://twitter.com/level1techs Twitch - https://twitch.tv/teampgp Patreon - https://www.patreon.com/level1 For all our social links, websites, and more, check out our link tree! https://linktr.ee/level1techs Thank you for watching! ------------------------------------------------------------------------------------------------------------- *IMPORTANT* Any email lacking “level1techs.com” should be ignored and immediately reported to Queries@level1techs.com.",
+      "pubDate": "2026-08-24T16:46:32+00:00",
+      "guid": "yt:video:yfVHinvSfoc",
+      "feedTitle": "Level1Techs",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ",
+      "coverImage": "https://img.youtube.com/vi/yfVHinvSfoc/maxresdefault.jpg",
+      "summary": "The claw!! 0:00 Intro 0:12 What Can I do with SuperClaw 1:22 SuperClaw Explained 9:47 What People Don't Understand 13:08 Outro You can find us... Twitter - https://twitter.com/level1techs Twitch - https://twitch.tv/teamp...",
+      "author": "Level1Techs",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "yfVHinvSfoc"
+    },
     {
       "title": "Getting the Same Results with Smaller \"Cheaper\" Dual Sparks AI as the More Expensive Clusters",
       "link": "https://www.youtube.com/watch?v=tmcn1-jFLWY",
