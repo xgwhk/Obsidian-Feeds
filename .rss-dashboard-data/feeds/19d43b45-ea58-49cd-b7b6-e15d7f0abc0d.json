@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "19d43b45-ea58-49cd-b7b6-e15d7f0abc0d",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIJTq0nGrgkGMy1xJL_YppQ",
-  "updatedAt": 1787319118147,
+  "updatedAt": 1787557438901,
   "items": [
+    {
+      "title": "Ton PC est cassé après une mise à jour ? 😮",
+      "link": "https://www.youtube.com/shorts/2BH2QbEJHA8",
+      "description": "⏪ Windows 11 peut désormais remonter le temps Cette nouveauté s'appelle Point-in-Time Restore : elle ramène ta machine à un état antérieur en quelques minutes, directement depuis l'environnement de récupération (WinRE) : fichiers, applis et paramètres compris. C'est comme les points de récupération que l'on connaît depuis longtemps, mais avec les données de l'utilisateur par défaut ! Démo complète dispo sur ma chaine YouTube. Alors tu en penses quoi ? 👀 👉 https://youtu.be/pLMaW3ey-Vk #Windows11 #Informatique #AstucePC #Tech #WinRE",
+      "content": "⏪ Windows 11 peut désormais remonter le temps Cette nouveauté s'appelle Point-in-Time Restore : elle ramène ta machine à un état antérieur en quelques minutes, directement depuis l'environnement de récupération (WinRE) : fichiers, applis et paramètres compris. C'est comme les points de récupération que l'on connaît depuis longtemps, mais avec les données de l'utilisateur par défaut ! Démo complète dispo sur ma chaine YouTube. Alors tu en penses quoi ? 👀 👉 https://youtu.be/pLMaW3ey-Vk #Windows11 #Informatique #AstucePC #Tech #WinRE",
+      "pubDate": "2026-08-22T12:15:01+00:00",
+      "guid": "yt:video:2BH2QbEJHA8",
+      "feedTitle": "IT-Connect - Florian",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIJTq0nGrgkGMy1xJL_YppQ",
+      "coverImage": "https://img.youtube.com/vi/2BH2QbEJHA8/maxresdefault.jpg",
+      "summary": "⏪ Windows 11 peut désormais remonter le temps Cette nouveauté s'appelle Point-in-Time Restore : elle ramène ta machine à un état antérieur en quelques minutes, directement depuis l'environnement de récupération (WinRE) :...",
+      "author": "IT-Connect - Florian",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "2BH2QbEJHA8"
+    },
     {
       "title": "Arcane : le tableau de bord Docker idéal pour votre homelab ?",
       "link": "https://www.youtube.com/watch?v=OxTsgta7Qyg",

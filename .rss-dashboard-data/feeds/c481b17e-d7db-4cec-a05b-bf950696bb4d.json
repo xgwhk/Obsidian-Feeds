@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "c481b17e-d7db-4cec-a05b-bf950696bb4d",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqbdxbvG6cqnh_S_RcGnWWg",
-  "updatedAt": 1787319270418,
+  "updatedAt": 1787557438786,
   "items": [
+    {
+      "title": "Acoustic Positioning",
+      "link": "https://www.youtube.com/shorts/EJpKElUJBPQ",
+      "description": "",
+      "content": "",
+      "pubDate": "2026-08-23T21:50:56+00:00",
+      "guid": "yt:video:EJpKElUJBPQ",
+      "feedTitle": "CPSdrone",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqbdxbvG6cqnh_S_RcGnWWg",
+      "coverImage": "https://img.youtube.com/vi/EJpKElUJBPQ/maxresdefault.jpg",
+      "summary": "",
+      "author": "CPSdrone",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "EJpKElUJBPQ"
+    },
     {
       "title": "Investigating an Alpine Submarine",
       "link": "https://www.youtube.com/watch?v=jkqJnTJ8cQc",

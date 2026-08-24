@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "4b11ef7c-7ed7-475c-adaf-12fadc052c1c",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaKBU_jFbCCRbw8LEe5LIrw",
-  "updatedAt": 1787319340834,
+  "updatedAt": 1787557439452,
   "items": [
+    {
+      "title": "DIY Geothermal AC: Cooling Your House With Garden Hose Water?! #shorts",
+      "link": "https://www.youtube.com/shorts/aaVt9k9DiQE",
+      "description": "Testing a DIY geothermal AC system with hose water through a heat exchanger. See how much the water and air temperatures drop when running water through ground loops. #DIY #Geothermal #HomeCooling #EnergyEfficiency #ACSystem",
+      "content": "Testing a DIY geothermal AC system with hose water through a heat exchanger. See how much the water and air temperatures drop when running water through ground loops. #DIY #Geothermal #HomeCooling #EnergyEfficiency #ACSystem",
+      "pubDate": "2026-08-23T10:27:32+00:00",
+      "guid": "yt:video:aaVt9k9DiQE",
+      "feedTitle": "Craftsman Chris",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaKBU_jFbCCRbw8LEe5LIrw",
+      "coverImage": "https://img.youtube.com/vi/aaVt9k9DiQE/maxresdefault.jpg",
+      "summary": "Testing a DIY geothermal AC system with hose water through a heat exchanger. See how much the water and air temperatures drop when running water through ground loops. #DIY #Geothermal #HomeCooling #EnergyEfficiency #ACSy...",
+      "author": "Craftsman Chris",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "aaVt9k9DiQE"
+    },
     {
       "title": "I set up a PLC to control my DIY ground-source heat pump/AC system#DIY #PLC #geothermal #engineering",
       "link": "https://www.youtube.com/shorts/Pcq1Nw0SOeI",

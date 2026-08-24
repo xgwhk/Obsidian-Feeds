@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "d18e9eac-8f7b-4387-9dfe-c24eb76312ae",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A",
-  "updatedAt": 1787319209599,
+  "updatedAt": 1787557439511,
   "items": [
+    {
+      "title": "This Device Goes Past Equilibrium",
+      "link": "https://www.youtube.com/watch?v=NvkZaWLe0Sk",
+      "description": "Learn more about the Jane Street internship at https://jane-st.co/internships2027-SteveMould Counterflow heat exchangers are really counterintuitive because they can swap the temperature of two liquids. You can buy my books here: https://stevemould.com/books You can support me on Patreon and get access to the exclusive Discord: https://www.patreon.com/stevemould Twitter: http://twitter.com/moulds Instagram: https://www.instagram.com/stevemouldscience/ Facebook: https://www.facebook.com/stevemouldscience/ TikTok: https://www.tiktok.com/stevemould Buy nerdy maths things: http://mathsgear.co.uk",
+      "content": "Learn more about the Jane Street internship at https://jane-st.co/internships2027-SteveMould Counterflow heat exchangers are really counterintuitive because they can swap the temperature of two liquids. You can buy my books here: https://stevemould.com/books You can support me on Patreon and get access to the exclusive Discord: https://www.patreon.com/stevemould Twitter: http://twitter.com/moulds Instagram: https://www.instagram.com/stevemouldscience/ Facebook: https://www.facebook.com/stevemouldscience/ TikTok: https://www.tiktok.com/stevemould Buy nerdy maths things: http://mathsgear.co.uk",
+      "pubDate": "2026-08-22T00:37:35+00:00",
+      "guid": "yt:video:NvkZaWLe0Sk",
+      "feedTitle": "Steve Mould",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A",
+      "coverImage": "https://img.youtube.com/vi/NvkZaWLe0Sk/maxresdefault.jpg",
+      "summary": "Learn more about the Jane Street internship at https://jane-st.co/internships2027-SteveMould Counterflow heat exchangers are really counterintuitive because they can swap the temperature of two liquids. You can buy my bo...",
+      "author": "Steve Mould",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "NvkZaWLe0Sk"
+    },
     {
       "title": "The Euler Disc Is The Wrong Shape",
       "link": "https://www.youtube.com/watch?v=ti2qiU_JTUQ",
