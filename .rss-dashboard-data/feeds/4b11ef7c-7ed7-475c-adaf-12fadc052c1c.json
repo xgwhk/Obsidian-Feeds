@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "4b11ef7c-7ed7-475c-adaf-12fadc052c1c",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaKBU_jFbCCRbw8LEe5LIrw",
-  "updatedAt": 1787607851472,
+  "updatedAt": 1787657244643,
   "items": [
+    {
+      "title": "Bypass Ground Loops for COLDER Water FAST! #shorts",
+      "link": "https://www.youtube.com/shorts/svnWUeG4Afk",
+      "description": "Testing a heat exchanger with bypassed ground loops. Air temp drops from 72.5 to 68 degrees, a 4.5-degree swing. Water temp plunges to 58 degrees, showing a 5-degree split. #HVAC #DIY #Engineering #Temperature",
+      "content": "Testing a heat exchanger with bypassed ground loops. Air temp drops from 72.5 to 68 degrees, a 4.5-degree swing. Water temp plunges to 58 degrees, showing a 5-degree split. #HVAC #DIY #Engineering #Temperature",
+      "pubDate": "2026-08-25T10:25:32+00:00",
+      "guid": "yt:video:svnWUeG4Afk",
+      "feedTitle": "Craftsman Chris",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaKBU_jFbCCRbw8LEe5LIrw",
+      "coverImage": "https://img.youtube.com/vi/svnWUeG4Afk/maxresdefault.jpg",
+      "summary": "Testing a heat exchanger with bypassed ground loops. Air temp drops from 72.5 to 68 degrees, a 4.5-degree swing. Water temp plunges to 58 degrees, showing a 5-degree split. #HVAC #DIY #Engineering #Temperature",
+      "author": "Craftsman Chris",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "svnWUeG4Afk"
+    },
     {
       "title": "Geothermal AC: Watch Water Temps DROP & Save ENERGY! #shorts",
       "link": "https://www.youtube.com/shorts/IaP4LgTC1qo",

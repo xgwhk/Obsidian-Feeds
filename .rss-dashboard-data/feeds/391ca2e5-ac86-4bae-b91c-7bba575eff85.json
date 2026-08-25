@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "391ca2e5-ac86-4bae-b91c-7bba575eff85",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuK7cMQFx9qu9xXStG3uWw",
-  "updatedAt": 1787607851437,
+  "updatedAt": 1787653592710,
   "items": [
+    {
+      "title": "My Experience With SuperFocus (@aliabdaal)",
+      "link": "https://www.youtube.com/watch?v=pChu_rwXJ-I",
+      "description": "App I work on: https://hirekai.ai/",
+      "content": "App I work on: https://hirekai.ai/",
+      "pubDate": "2026-08-25T10:00:07+00:00",
+      "guid": "yt:video:pChu_rwXJ-I",
+      "feedTitle": "Danny Hatcher",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuK7cMQFx9qu9xXStG3uWw",
+      "coverImage": "https://img.youtube.com/vi/pChu_rwXJ-I/maxresdefault.jpg",
+      "summary": "App I work on: https://hirekai.ai/",
+      "author": "Danny Hatcher",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "pChu_rwXJ-I"
+    },
     {
       "title": "Responding To AI Privacy Concerns",
       "link": "https://www.youtube.com/watch?v=U4f5Vd7oBbo",
