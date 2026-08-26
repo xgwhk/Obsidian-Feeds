@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "abe801b2-0353-4ca7-93c7-2390609cf33f",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzgA9CBrIXPtkB2yNTTiy1w",
-  "updatedAt": 1787671554123,
+  "updatedAt": 1787774808558,
   "items": [
+    {
+      "title": "How does a $35 monitor have more sensors than a $200 one?",
+      "link": "https://www.youtube.com/watch?v=t5yAZb5Blbs",
+      "description": "How can a $30 Air Quality Monitor have more sensors inside than a $200 one? Spoiler: it doesn't. - Air Quality Detector: https://amzn.to/4x3BZLN - Partycle: https://partycle.cloud - AirGradient Go: https://www.airgradient.com/portable/ - Air Lab: https://networkedartifacts.com/airlab Support me on Patreon: https://www.patreon.com/geerlingguy Sponsor me on GitHub: https://github.com/sponsors/geerlingguy Merch: https://www.redshirtjeff.com 2nd Channel: https://www.youtube.com/@GeerlingEngineering 3rd Channel: https://www.youtube.com/@Level2Jeff Contents: 00:00 - How is this thing so cheap 02:06 - Testing sensor accuracy 04:10 - A teardown reveals the secret 06:03 - At least it has a decent PM sensor 08:39 - Not a CO2 sensor 09:39 - The peel 11:09 - AK23 is cheap",
+      "content": "How can a $30 Air Quality Monitor have more sensors inside than a $200 one? Spoiler: it doesn't. - Air Quality Detector: https://amzn.to/4x3BZLN - Partycle: https://partycle.cloud - AirGradient Go: https://www.airgradient.com/portable/ - Air Lab: https://networkedartifacts.com/airlab Support me on Patreon: https://www.patreon.com/geerlingguy Sponsor me on GitHub: https://github.com/sponsors/geerlingguy Merch: https://www.redshirtjeff.com 2nd Channel: https://www.youtube.com/@GeerlingEngineering 3rd Channel: https://www.youtube.com/@Level2Jeff Contents: 00:00 - How is this thing so cheap 02:06 - Testing sensor accuracy 04:10 - A teardown reveals the secret 06:03 - At least it has a decent PM sensor 08:39 - Not a CO2 sensor 09:39 - The peel 11:09 - AK23 is cheap",
+      "pubDate": "2026-08-26T14:21:52+00:00",
+      "guid": "yt:video:t5yAZb5Blbs",
+      "feedTitle": "Level 2 Jeff",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzgA9CBrIXPtkB2yNTTiy1w",
+      "coverImage": "https://img.youtube.com/vi/t5yAZb5Blbs/maxresdefault.jpg",
+      "summary": "How can a $30 Air Quality Monitor have more sensors inside than a $200 one? Spoiler: it doesn't. - Air Quality Detector: https://amzn.to/4x3BZLN - Partycle: https://partycle.cloud - AirGradient Go: https://www.airgradien...",
+      "author": "Level 2 Jeff",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "t5yAZb5Blbs"
+    },
     {
       "title": "Why do people like this store so much?",
       "link": "https://www.youtube.com/watch?v=rqGT8Vxo2AQ",

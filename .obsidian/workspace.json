@@ -18,22 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f23b113a12ecfc5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96d603a8e0e0e773",
-            "type": "leaf",
-            "state": {
-              "type": "rss-reader-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Dans l'Aude: Après la tornade, les opérations de déblayage et de sécurisation continuent"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +185,7 @@
       "rss-dashboard:RSS dashboard": false
     }
   },
-  "active": "96d603a8e0e0e773",
+  "active": "83e9ece3f8d83b88",
   "lastOpenFiles": [
     "RSS articles/Science",
     "RSS articles/Science/This Device Goes Past Equilibrium.md",

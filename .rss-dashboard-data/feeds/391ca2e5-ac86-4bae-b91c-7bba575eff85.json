@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "391ca2e5-ac86-4bae-b91c-7bba575eff85",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuK7cMQFx9qu9xXStG3uWw",
-  "updatedAt": 1787695885058,
+  "updatedAt": 1787774808753,
   "items": [
+    {
+      "title": "Why I Don't Use Traditional Note Apps Anymore",
+      "link": "https://www.youtube.com/watch?v=kX33fp-lsoU",
+      "description": "App I work on: https://hirekai.ai/",
+      "content": "App I work on: https://hirekai.ai/",
+      "pubDate": "2026-08-26T10:00:07+00:00",
+      "guid": "yt:video:kX33fp-lsoU",
+      "feedTitle": "Danny Hatcher",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuK7cMQFx9qu9xXStG3uWw",
+      "coverImage": "https://img.youtube.com/vi/kX33fp-lsoU/maxresdefault.jpg",
+      "summary": "App I work on: https://hirekai.ai/",
+      "author": "Danny Hatcher",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "kX33fp-lsoU"
+    },
     {
       "title": "Is Writing With AI Plagiarism? (@hankschannel )",
       "link": "https://www.youtube.com/watch?v=YetCx84vRJA",
