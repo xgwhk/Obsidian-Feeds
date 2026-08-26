@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "391ca2e5-ac86-4bae-b91c-7bba575eff85",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuK7cMQFx9qu9xXStG3uWw",
-  "updatedAt": 1787653592710,
+  "updatedAt": 1787695885058,
   "items": [
+    {
+      "title": "Is Writing With AI Plagiarism? (@hankschannel )",
+      "link": "https://www.youtube.com/watch?v=YetCx84vRJA",
+      "description": "App I work on: https://hirekai.ai/",
+      "content": "App I work on: https://hirekai.ai/",
+      "pubDate": "2026-08-25T22:00:14+00:00",
+      "guid": "yt:video:YetCx84vRJA",
+      "feedTitle": "Danny Hatcher",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuK7cMQFx9qu9xXStG3uWw",
+      "coverImage": "https://img.youtube.com/vi/YetCx84vRJA/maxresdefault.jpg",
+      "summary": "App I work on: https://hirekai.ai/",
+      "author": "Danny Hatcher",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "YetCx84vRJA"
+    },
     {
       "title": "My Experience With SuperFocus (@aliabdaal)",
       "link": "https://www.youtube.com/watch?v=pChu_rwXJ-I",
