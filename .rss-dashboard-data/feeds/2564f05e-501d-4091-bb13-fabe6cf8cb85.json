@@ -2,8 +2,25 @@
   "version": 1,
   "feedId": "2564f05e-501d-4091-bb13-fabe6cf8cb85",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkWVA1_vkY9GLyuLAre97AQ",
-  "updatedAt": 1787676080882,
+  "updatedAt": 1787728284691,
   "items": [
+    {
+      "title": "How Bass Pro Shops Became A Christmas Tradition",
+      "link": "https://www.youtube.com/shorts/_jCGAtVqQgU",
+      "description": "How Bass Pro Shops Became A Christmas Tradition",
+      "content": "How Bass Pro Shops Became A Christmas Tradition",
+      "pubDate": "2026-08-26T01:00:01+00:00",
+      "guid": "yt:video:_jCGAtVqQgU",
+      "feedTitle": "The Hustle ",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkWVA1_vkY9GLyuLAre97AQ",
+      "coverImage": "https://img.youtube.com/vi/_jCGAtVqQgU/maxresdefault.jpg",
+      "summary": "How Bass Pro Shops Became A Christmas Tradition",
+      "author": "The Hustle",
+      "mediaType": "video",
+      "explicit": false,
+      "image": "",
+      "videoId": "_jCGAtVqQgU"
+    },
     {
       "title": "How Uncrustables Became a Billion-Dollar Sandwich",
       "link": "https://www.youtube.com/shorts/WFePFpftlyc",

@@ -20,17 +20,17 @@
         ]
       },
       {
-        "id": "a5186c2fc096d093",
+        "id": "f23b113a12ecfc5b",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ac70e40798d3e0",
+            "id": "96d603a8e0e0e773",
             "type": "leaf",
             "state": {
               "type": "rss-reader-view",
               "state": {},
-              "icon": "play-circle",
-              "title": "Bypass Ground Loops for COLDER Water FAST! #shorts"
+              "icon": "file-text",
+              "title": "Dans l'Aude: Après la tornade, les opérations de déblayage et de sécurisation continuent"
             }
           }
         ]
@@ -201,7 +201,7 @@
       "rss-dashboard:RSS dashboard": false
     }
   },
-  "active": "d5ac70e40798d3e0",
+  "active": "96d603a8e0e0e773",
   "lastOpenFiles": [
     "RSS articles/Science",
     "RSS articles/Science/This Device Goes Past Equilibrium.md",
