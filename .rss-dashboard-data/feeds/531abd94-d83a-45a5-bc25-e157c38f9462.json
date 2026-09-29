@@ -2,24 +2,6 @@
   "version": 1,
   "feedId": "531abd94-d83a-45a5-bc25-e157c38f9462",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9iSVlKZ6SfOnrlbR2Mt2Mw",
-  "updatedAt": 1787298492935,
-  "items": [
-    {
-      "title": "Matter Smart Home Displays don't exist... so I built one",
-      "link": "https://www.youtube.com/watch?v=hnBUFGWUM9g",
-      "description": "Smart home dashboards are everywhere, but they all have the same problem — they're just pretty screens sitting on top of your existing hub. If the hub goes down, so does your dashboard. So I built one that skips that entirely. This mini display talks *directly* to my lights, sensors, and even a custom-built weather device using Matter's binding feature — no hub in the loop for control, just device-to-device communication over Thread. In this video I cover: - How Matter binding actually works (clusters, servers vs. clients) - Extending a light switch's clusters to pull in temperature, humidity, and air quality data - Building a *virtual* Matter weather device with matter.js (and why I eventually ditched it for two ESP32s) - The absolute nightmare that is time sync in Matter, and how I worked around it - Real-world battery life testing and power optimisation - The honest trade-offs of living with a fully native Matter setup day to day If you want to build one yourself, full instructions are on GitHub 👇 🔧 Build it yourself: GitHub repo: https://github.com/uamphome/mini_matter_display 🛒 Hardware used: Waveshare ESP32-C6 AMOLED display: https://s.click.aliexpress.com/e/_c3kYGeLd Thread border router board: https://s.click.aliexpress.com/e/_c33n4Qrz *Links above are affiliate links — I may earn a small commission at no extra cost to you if you purchase through them. It helps support the channel.* #Matter #SmartHome #ESP32 #homeassistant #DIY",
-      "content": "Smart home dashboards are everywhere, but they all have the same problem — they're just pretty screens sitting on top of your existing hub. If the hub goes down, so does your dashboard. So I built one that skips that entirely. This mini display talks *directly* to my lights, sensors, and even a custom-built weather device using Matter's binding feature — no hub in the loop for control, just device-to-device communication over Thread. In this video I cover: - How Matter binding actually works (clusters, servers vs. clients) - Extending a light switch's clusters to pull in temperature, humidity, and air quality data - Building a *virtual* Matter weather device with matter.js (and why I eventually ditched it for two ESP32s) - The absolute nightmare that is time sync in Matter, and how I worked around it - Real-world battery life testing and power optimisation - The honest trade-offs of living with a fully native Matter setup day to day If you want to build one yourself, full instructions are on GitHub 👇 🔧 Build it yourself: GitHub repo: https://github.com/uamphome/mini_matter_display 🛒 Hardware used: Waveshare ESP32-C6 AMOLED display: https://s.click.aliexpress.com/e/_c3kYGeLd Thread border router board: https://s.click.aliexpress.com/e/_c33n4Qrz *Links above are affiliate links — I may earn a small commission at no extra cost to you if you purchase through them. It helps support the channel.* #Matter #SmartHome #ESP32 #homeassistant #DIY",
-      "pubDate": "2026-08-20T05:51:12+00:00",
-      "guid": "yt:video:hnBUFGWUM9g",
-      "feedTitle": "Microamp Home",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9iSVlKZ6SfOnrlbR2Mt2Mw",
-      "coverImage": "https://img.youtube.com/vi/hnBUFGWUM9g/maxresdefault.jpg",
-      "summary": "Smart home dashboards are everywhere, but they all have the same problem — they're just pretty screens sitting on top of your existing hub. If the hub goes down, so does your dashboard. So I built one that skips that ent...",
-      "author": "Microamp Home",
-      "mediaType": "video",
-      "explicit": false,
-      "image": "",
-      "videoId": "hnBUFGWUM9g"
-    }
-  ]
+  "updatedAt": 1789914706293,
+  "items": []
 }

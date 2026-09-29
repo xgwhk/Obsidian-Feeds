@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aae0f67b84ca116d",
+        "id": "60df503a21c73c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "83e9ece3f8d83b88",
+            "id": "f9266b2906581379",
             "type": "leaf",
             "state": {
-              "type": "rss-dashboard-view",
+              "type": "rss-reader-view",
               "state": {},
-              "icon": "rss",
-              "title": "RSS dashboard"
+              "icon": "file-text",
+              "title": "RSS reader"
             }
           }
         ]
@@ -74,12 +74,23 @@
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
+          },
+          {
+            "id": "f4e6adf288f14cf4",
+            "type": "leaf",
+            "state": {
+              "type": "rss-dashboard-view",
+              "state": {},
+              "icon": "rss",
+              "title": "RSS dashboard"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f8568d6fffd0567b",
@@ -185,14 +196,20 @@
       "rss-dashboard:RSS dashboard": false
     }
   },
-  "active": "83e9ece3f8d83b88",
+  "active": "f4e6adf288f14cf4",
   "lastOpenFiles": [
-    "RSS articles/Science",
-    "RSS articles/Science/This Device Goes Past Equilibrium.md",
-    "RSS articles/Food Drinks/Make All Natural Soda From Ginger FIZZY AND GOOD FOR YOUR GUT!!!.md",
-    "RSS articles/Food Drinks",
-    "RSS articles/Obsidian",
+    "RSS articles/IT",
+    "RSS articles/IT/Organize Your 3D Print Files with PrintStash.md",
+    "RSS articles/Maker/I Think I Found the Cheapest Way to Build a NAS.md",
+    "RSS articles/Maker",
     "RSS articles/Obsidian/Obsidian Plugins 2026 What I Use and What I Dropped.md",
+    "RSS articles/Food/Le genre de plat qu’on finit jusqu’à la dernière goutte.md",
+    "Sans titre",
+    "RSS articles/Food/Make All Natural Soda From Ginger FIZZY AND GOOD FOR YOUR GUT!!!.md",
+    "RSS articles/Food/피자보다 맛있다!! 놀라운 라면 요리! 토마토 피자 라면!!.md",
+    "RSS articles/Obsidian",
+    "RSS articles/Food",
+    "Sans titre.canvas",
     "IT/Vocollect & Talkman/data/Photo Microphone Tweak/desktop.ini",
     "IT/Vocollect & Talkman/data/7524440301/desktop.ini",
     "PIPGSD/documents/desktop.ini",
@@ -201,8 +218,6 @@
     "Templates/TâcheJour.md",
     "Templates/Ticket PIP.md",
     "Templates",
-    "Sites/Villepinte/RFS Document SVC-80028459 2026_3_2 v1.pdf",
-    "Sites/Villepinte",
     "Sites/Vierzon/Adobe Acrobat licences approuval by Frédéric Wagner.png",
     "Sites/Vierzon/20260424 SAP BRP - Users locked OUT.png",
     "Sites/Vierzon/20260417 VDI loading endlessly.png",
@@ -229,9 +244,6 @@
     "Sites/Sevrey/Hardware/Printers/Networked Datamax (label).md",
     "Sites/Sevrey/Hardware/PC Sevrey/Priority 5.md",
     "Sites/Sevrey/Hardware/PC Sevrey/Priority 3.md",
-    "Sites/Sevrey/Hardware/PC Sevrey/Priority 2.md",
-    "Sites/Sevrey/Hardware/PC Sevrey/Priority 1.md",
-    "Sites/Sevrey/Hardware/PC Sevrey/PC Sevrey.md",
-    "Sites/Lozanne/Server Information.md"
+    "Sites/Sevrey/Hardware/PC Sevrey/Priority 2.md"
   ]
 }

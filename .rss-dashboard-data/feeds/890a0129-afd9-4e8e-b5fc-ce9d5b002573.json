@@ -2,7 +2,7 @@
   "version": 1,
   "feedId": "890a0129-afd9-4e8e-b5fc-ce9d5b002573",
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXh9mHdcBD-3aGCiECZMP1Q",
-  "updatedAt": 1787298693706,
+  "updatedAt": 1789739848577,
   "items": [
     {
       "title": "What if angles were metric?",
@@ -37,23 +37,6 @@
       "explicit": false,
       "image": "",
       "videoId": "reDaHg4QAH0"
-    },
-    {
-      "title": "I built a better bandsaw",
-      "link": "https://www.youtube.com/watch?v=CDiRZrl7ntM",
-      "description": "Keep your projects on track with @Odoo, your first application is free for life: https://www.odoo.com/r/LBYd Try Onshape Professional, free for up to 6 months: https://onshape.pro/NotanEngineer I love bandsaws, but mine could be better. Thanks to @InheritanceMachining and @ThePostApocalypticInventor for their cameo contributions; And @StefanGotteswinter for the absolute brainworm of putting a linear axis on a bandsaw. - 3D Scanner: https://crealityofficialstore.sjv.io/AgPRQx (affiliate) - Radius Master Belt Grinder: https://lp.radiusmaster.com.au/ - Grinding belts: https://artisansupplies.com.au - Carbide Hand Tools (limited stock): https://notan.engineer - Merch: https://notanengineer.shop - Patreon: https://www.patreon.com/NotAnEngineer - Instagram: https://www.instagram.com/noengineerhere/",
-      "content": "Keep your projects on track with @Odoo, your first application is free for life: https://www.odoo.com/r/LBYd Try Onshape Professional, free for up to 6 months: https://onshape.pro/NotanEngineer I love bandsaws, but mine could be better. Thanks to @InheritanceMachining and @ThePostApocalypticInventor for their cameo contributions; And @StefanGotteswinter for the absolute brainworm of putting a linear axis on a bandsaw. - 3D Scanner: https://crealityofficialstore.sjv.io/AgPRQx (affiliate) - Radius Master Belt Grinder: https://lp.radiusmaster.com.au/ - Grinding belts: https://artisansupplies.com.au - Carbide Hand Tools (limited stock): https://notan.engineer - Merch: https://notanengineer.shop - Patreon: https://www.patreon.com/NotAnEngineer - Instagram: https://www.instagram.com/noengineerhere/",
-      "pubDate": "2026-03-20T11:48:54+00:00",
-      "guid": "yt:video:CDiRZrl7ntM",
-      "feedTitle": "Not An Engineer",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXh9mHdcBD-3aGCiECZMP1Q",
-      "coverImage": "https://img.youtube.com/vi/CDiRZrl7ntM/maxresdefault.jpg",
-      "summary": "Keep your projects on track with @Odoo, your first application is free for life: https://www.odoo.com/r/LBYd Try Onshape Professional, free for up to 6 months: https://onshape.pro/NotanEngineer I love bandsaws, but mine ...",
-      "author": "Not An Engineer",
-      "mediaType": "video",
-      "explicit": false,
-      "image": "",
-      "videoId": "CDiRZrl7ntM"
     }
   ]
 }
